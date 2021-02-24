@@ -1,0 +1,19 @@
+{
+  "name": "247music",
+  "version": "1.0.0",
+  "description": "247 music player, usefull? maybe, maybe not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeevJewalkar/247Music.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeevJewalkar/247Music/issues"
+  },
+  "homepage": "https://github.com/NeevJewalkar/247Music#readme"
+}
